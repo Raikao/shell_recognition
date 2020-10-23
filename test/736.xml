@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resizeee</folder>
+	<filename>736.jpg</filename>
+	<path>C:\Users\stxdr3\Downloads\Faster\resizeee\736.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail_B_M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>244</ymin>
+			<xmax>418</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

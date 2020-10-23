@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'snail_B_M'
+}
+
+item {
+    id: 2
+    name: 'snail_B_O'
+}
+
+item {
+    id: 3
+    name: 'snail_P_B'
+}
+
+item {
+    id: 4
+    name: 'snail_P_M'
+}
+
+item {
+    id: 5
+    name: 'snail_P_O'
+}
+
+item {
+    id: 6
+    name: 'snail_Y_B'
+}
+
+item {
+    id: 7
+    name: 'snail_Y_M'
+}
+
+item {
+    id: 8
+    name: 'snail_Y_O'
+}

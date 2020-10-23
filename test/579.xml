@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resize_images</folder>
+	<filename>579.jpg</filename>
+	<path>C:\Users\stxdr3\Desktop\Object_Detection\resize_images\579.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snail_Y_O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>245</ymin>
+			<xmax>515</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>
