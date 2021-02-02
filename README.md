@@ -2,7 +2,7 @@
 
 ## How to Train the model
 
-Run [this Colab Notebook](https://colab.research.google.com/github/Raikao/object_detection_demo/blob/master/snail_detection_colab.ipynb).
+Run [this Colab Notebook](https://colab.research.google.com/github/Raikao/shell_recognition/blob/master/snail_detection_colab.ipynb).
 
 
 
